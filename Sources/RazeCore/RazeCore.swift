@@ -29,4 +29,10 @@ open class RazeCore {
     public static var razeColor: UIColor {
         return self.colorFromHexString("006736")
     }
+    
+    
+    /// second best color eva
+    public static var secondaryRazeColor: UIColor {
+        return self.colorFromHexString("FCFFFD")
+    }
 }
