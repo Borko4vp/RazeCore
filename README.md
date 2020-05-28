@@ -1,2 +1,3 @@
 # RazeCore
-RazeCore reusable frameworks tutorial (RW)
+
+A description of this package.
