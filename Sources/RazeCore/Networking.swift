@@ -30,7 +30,7 @@ extension RazeCore {
         public class Manager {
             public init() {}
             
-            internal var session: NetworkSession?
+            internal var session: NetworkSession? = URLSession.shared
             
             /// Calls the live internet to retrieve Data from specific localtion
             /// - Parameters:
